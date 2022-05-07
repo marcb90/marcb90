@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marc
-- 👀 I’m interested in all things Apple and the occasion python projec 
+- 👀 I’m interested in all things Apple and the occasion python project
 - 🌱 I’m currently learning SwiftUI
 
 
